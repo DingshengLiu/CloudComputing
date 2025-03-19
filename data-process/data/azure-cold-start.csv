@@ -1,0 +1,31 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+1.74239E+12,4853,HTTP Request,200,OK,Thread Group 1-1,text,TRUE,,524,450,1,1,64,0,25
+1.74239E+12,64,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,,TRUE,,231,225,1,1,64,0,25
+1.74239E+12,4787,HTTP Request-1,200,OK,Thread Group 1-1,text,TRUE,,293,225,1,1,4773,0,67
+1.74239E+12,4886,HTTP Request,200,OK,Thread Group 1-1,text,TRUE,,524,450,1,1,104,0,72
+1.74239E+12,104,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,,TRUE,,231,225,1,1,104,0,72
+1.74239E+12,4781,HTTP Request-1,200,OK,Thread Group 1-1,text,TRUE,,293,225,1,1,4769,0,44
+1.74239E+12,5884,HTTP Request,200,OK,Thread Group 1-1,text,TRUE,,524,450,1,1,76,0,48
+1.74239E+12,76,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,,TRUE,,231,225,1,1,76,0,48
+1.74239E+12,5806,HTTP Request-1,200,OK,Thread Group 1-1,text,TRUE,,293,225,1,1,5771,0,47
+1.74239E+12,5003,HTTP Request,200,OK,Thread Group 1-1,text,TRUE,,524,450,1,1,25,0,12
+1.74239E+12,25,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,,TRUE,,231,225,1,1,25,0,12
+1.74239E+12,4977,HTTP Request-1,200,OK,Thread Group 1-1,text,TRUE,,293,225,1,1,4959,0,67
+1.74239E+12,6951,HTTP Request,200,OK,Thread Group 1-1,text,TRUE,,524,450,1,1,87,0,63
+1.74239E+12,87,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,,TRUE,,231,225,1,1,87,0,63
+1.74239E+12,6863,HTTP Request-1,200,OK,Thread Group 1-1,text,TRUE,,293,225,1,1,6832,0,55
+1.7424E+12,4799,HTTP Request,200,OK,Thread Group 1-1,text,TRUE,,524,450,1,1,64,0,23
+1.7424E+12,64,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,,TRUE,,231,225,1,1,64,0,23
+1.7424E+12,4734,HTTP Request-1,200,OK,Thread Group 1-1,text,TRUE,,293,225,1,1,4717,0,62
+1.7424E+12,4689,HTTP Request,200,OK,Thread Group 1-1,text,TRUE,,524,450,1,1,60,0,47
+1.7424E+12,60,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,,TRUE,,231,225,1,1,60,0,47
+1.7424E+12,4627,HTTP Request-1,200,OK,Thread Group 1-1,text,TRUE,,293,225,1,1,4612,0,48
+1.7424E+12,5261,HTTP Request,200,OK,Thread Group 1-1,text,TRUE,,524,450,1,1,42,0,12
+1.7424E+12,42,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,,TRUE,,231,225,1,1,42,0,12
+1.7424E+12,5218,HTTP Request-1,200,OK,Thread Group 1-1,text,TRUE,,293,225,1,1,5217,0,65
+1.7424E+12,5442,HTTP Request,200,OK,Thread Group 1-1,text,TRUE,,524,450,1,1,102,0,65
+1.7424E+12,102,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,,TRUE,,231,225,1,1,102,0,65
+1.7424E+12,5339,HTTP Request-1,200,OK,Thread Group 1-1,text,TRUE,,293,225,1,1,5322,0,48
+1.7424E+12,4883,HTTP Request,200,OK,Thread Group 1-1,text,TRUE,,524,450,1,1,44,0,16
+1.7424E+12,44,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,,TRUE,,231,225,1,1,44,0,16
+1.7424E+12,4838,HTTP Request-1,200,OK,Thread Group 1-1,text,TRUE,,293,225,1,1,4824,0,47
